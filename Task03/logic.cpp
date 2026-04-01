@@ -1,5 +1,6 @@
 #include "logic.h"
 
+
 bool recursion(int number) {
 	if (number == 1) {
 		return true;
