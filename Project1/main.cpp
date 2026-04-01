@@ -8,6 +8,8 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 int recursion(int number) {
 	if (number < 10) {
 		return number;
